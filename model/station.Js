@@ -1,0 +1,23 @@
+export const stationArrey=[
+    {
+        name:"a",
+        address:"a",
+        city:"a",
+        numStation:1,
+        busArrey:[1,2,3]
+    },
+    {
+        name:"a",
+        address:"a",
+        city:"a",
+        numStation:1,
+        busArrey:[1,2,3]
+    },
+    {
+        name:"a",
+        address:"a",
+        city:"a",
+        numStation:1,
+        busArrey:[1,2,3]
+    }
+]
